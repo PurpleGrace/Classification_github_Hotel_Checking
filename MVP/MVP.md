@@ -7,3 +7,5 @@
 - **From here**: This analysis will be expanded by utilizing other models, like decsion trees, adding categorical features and adjusting hyper paramters to impove the models performace.
 
 <img src="https://github.com/PurpleGrace/Classification_github_Hotel_Checking/blob/master/MVP/MVP_KNN_5.png" alt="KNN model with K=5">
+
+<img src = 'https://github.com/PurpleGrace/Classification_github_Hotel_Checking/blob/master/MVP/MVP_KNN_CVwithK.png'>
