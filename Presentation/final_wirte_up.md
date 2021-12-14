@@ -33,7 +33,8 @@ For this analysis, we would like to decrease both false positive and false negat
     - recall: 0.73088:
     - f1: 0.80238:
     - confusion matrix of test data is:
-      [[14121   813]
+      [[14121   813]  
+
       [ 2407  6537]]
 
 ### tools
