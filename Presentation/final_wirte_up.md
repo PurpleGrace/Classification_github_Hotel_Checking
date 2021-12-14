@@ -15,11 +15,12 @@ The project is designed to help hotels to predict if a booking will be canceled,
   - Transfering categorical features to binary dummy variables.
   - Dropping features with little importance to simplify models.
 
-- **Models**
+- **Models**  
+
 k-nearest neighbors,Logistic regression, decision trees,naive bayes and various ensembling techiniques are used before choosing the strongest model for cross validation performance. After performing aformentioned basic models, we adopted the random forest model as our final model. We tuned the model by adjusting hyper paramters to optimizing and avoid overfitting.
 
-- **Model Evaluation and Metric Selection**
-We split the whole dataset into 80/20 train vs test data, and 5 fold cross validation are performend and calculated for the metric score.
+- **Model Evaluation and Metric Selection**  
+
 
 For this analysis, we would like to decrease both false positive and false negative rate. False positive happens when hotel incorrectly classifies on-cancelation booking as cancelation case, thus might leads to overbooking; on the other hand, false negative is the model incorrectly classifies cancled booking as non-cancelation case, which might lead to underbooking. Therefore, the project seeks to both good ```precison``` and ```recall measurement```, in this case, ```f1```score which combines both becomes the main metrics of our model.
 
