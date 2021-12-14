@@ -12,4 +12,4 @@
 
 <img src = 'https://github.com/PurpleGrace/Classification_github_Hotel_Checking/blob/master/MVP/LogisticRegression_C100.png'>
 
-<img src = 'https://github.com/PurpleGrace/Classification_github_Hotel_Checking/blob/master/MVP/LogisticRegression_ROC.png'>
+<img src = 'https://github.com/PurpleGrace/Classification_github_Hotel_Checking/blob/master/MVP/LogisticRegression_ROC.png'
