@@ -2,7 +2,7 @@
 ## Will The Booking For Hotel Reservation Be Canceled?
 
 ### Abstract
-Every hotel in the world faces a same isuue in its daily operation, that is, there is a possible people will cancel their booking. Too many cancelations will obviously have negative impact on the hotel's profit and revenue. But how possible is a booking will be cancled? What features can help find potential cancelations? And what hotel can do to decrease cancelation rate or to avoid cancelation? In this project, classification models are used to make prediction of hotel booking cancelation, and suggestions to help decrease cancelation rate will also be provided.
+Every hotel in the world faces a same isuue in its daily operation, that is, there is a possible people will cancel their booking. Too many cancellations will obviously have negative impact on the hotel's profit and revenue. But how possible is a booking will be cancled? What features can help find potential cancellations? And what hotel can do to decrease cancelation rate or to avoid cancelation? In this project, classification models are used to make prediction of hotel booking cancelation, and suggestions to help decrease cancelation rate will also be provided.
 
 ### Design
 The project is designed to help hotels to predict if a booking will be canceled, find potential related features with booking cancelation, thus may adopt appropriate measures to decrease cancelation rate, and to increase profit.
