@@ -36,7 +36,7 @@ For this analysis, we would like to decrease both false positive and false negat
       [[14121   813]   
       [ 2407  6537]]
 
-### tools
+### Tools
 - Numpy and Pandas for data manipulation.
 - Scikit-learn for modeling.
 - Matplotlib and Seaborn for plotting.
